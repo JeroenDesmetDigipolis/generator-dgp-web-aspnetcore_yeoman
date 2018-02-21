@@ -1,5 +1,8 @@
 # generator-dgp-web-aspnetcore
 
+## 4.0.1
+ - Fix reference to Digipolis.Auth and add standard unit test
+
 ## 4.0.0
  - update to .Net Core 2.0 dependencies
 
